@@ -1,0 +1,15 @@
+Filetype: Flipper NFC device
+Version: 3
+# Nfc device type can be UID, Mifare Ultralight, Mifare Classic or ISO15693
+Device type: Bank card
+# UID is common for all formats
+UID: 02 CC 00 C1 30 82 F0
+# ISO14443 specific fields
+ATQA: 00 44
+SAK: 20
+# Bank card specific data
+AID: A0 00 00 00 03 20 10
+Name: V PAY
+Number: 48 75 12 50 00 06 02 22 78 4F
+Exp data: 06 26
+Country code: 1320
