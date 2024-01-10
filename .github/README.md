@@ -24,4 +24,4 @@
 
 made with ❤ by [giovankes](https://github.com/giovankes)
 
-see more [here](https://giotje.dev)
+see more [here](https://bunny.giotje.dev)
